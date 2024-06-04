@@ -1,7 +1,7 @@
 <style>
 	
 body{
-  background-image: url("bab.png");
+  background-image: url("main.jpg");
   background-size: no-repeat;
   display: block;
   justify-content:center;
